@@ -1,3 +1,3 @@
-module fabricioveronez/primeira-pipeline
+module ronaldojssilva/primeira-pipeline
 
 go 1.22.0
