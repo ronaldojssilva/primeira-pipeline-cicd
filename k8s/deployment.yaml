@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: ronaldojssilva/primeira-pipeline-cicd
+        image: ronaldojssilva/aula-primeira-pipeline
         ports:
         - containerPort: 5000
 --- 
